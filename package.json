@@ -1,0 +1,13 @@
+{
+  "name": "js-stale-closure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  },
+  "keywords": [],
+  "description": ""
+}
